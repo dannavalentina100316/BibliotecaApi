@@ -1,0 +1,14 @@
+.env
+node_modules/
+dist/
+.venv/
+.venv_anterior/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+biblioteca_test.db
+*.db
+*.sqlite
+++docker info

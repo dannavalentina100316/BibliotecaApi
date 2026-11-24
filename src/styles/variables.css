@@ -1,0 +1,12 @@
+:root {
+  --navy: #172554;
+  --white: #ffffff;
+  --violet: #8b5cf6;
+  --lavender: #ede9fe;
+  --text: #172554;
+  --muted: rgba(23, 37, 84, 0.62);
+  --line: rgba(23, 37, 84, 0.1);
+  --surface: #ffffff;
+  --soft-violet: rgba(139, 92, 246, 0.11);
+  --shadow: 0 16px 38px rgba(23, 37, 84, 0.08);
+}
